@@ -1,5 +1,20 @@
+body {
+	background: url('../images/bg.jpg');
+}
+.my-header {
+	height: 400px;
+	
+}
+
+
+.my-cv {
+	padding-top: 70px !important;
+}
+
+
 .container {
-	padding-top: 70px;
+	margin-top: -200px;
+	clear: both;
 }
 
 h2 {
