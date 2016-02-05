@@ -20,3 +20,16 @@ body {
 h2 {
 	font-size: 18px !important;
 }
+
+p {
+	font-size: 16px;
+	line-height: 1.5em;
+}
+
+.header {
+	font-size: 17px;
+}
+
+.content {
+	font-size: 18px;
+}
